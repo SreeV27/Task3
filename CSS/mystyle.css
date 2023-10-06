@@ -1,0 +1,832 @@
+.fontfamily {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+}
+
+.fontSizethirteen {
+
+	font-size: 13px;
+}
+
+.fontSizeEleven {
+
+	font-size: 11px;
+}
+
+.fontSizetwelve {
+
+	font-size: 12px;
+}
+
+.fontSizetwenty {
+
+	font-size: 20px;
+}
+
+.fontSize21 {
+
+	font-size: 21px;
+}
+
+.fontSize17 {
+
+	font-size: 17px;
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.over:hover {
+
+	background-color: hsl(210, 8%, 95%);
+
+}
+
+.logo {
+    margin-top: 4px;
+	width: 162px;
+	height: 49px;
+}
+
+.flex {
+	display: flex;
+}
+
+.fontcolorAbout {
+
+	color: #525960;
+}
+
+.navDiv {
+	height: 57px;
+	padding-left: 53px;
+	border-top-style: solid;
+	border-top-color: coral;
+
+	border-bottom: 1px solid hsl(210, 8%, 75%);
+}
+
+
+.navCommon {
+
+	height: 26px;
+
+	text-align: center;
+	margin-top: 17px;
+	padding: 4px 1px 0px 0px;
+	border-radius: 20px;
+}
+
+.navAbout {
+
+	margin-left: 8px;
+	width: 60px;
+}
+
+.navpdt {
+
+
+	width: 78px;
+
+}
+
+.navteam {
+
+
+	width: 83px;
+
+}
+
+.searchDiv {
+	margin-left: 8px;
+	border: 1px solid gray;
+	height: 32px;
+	width: 52%;
+	margin-top: 14px;
+	border-radius: 6px;
+
+}
+
+
+.inputSearch {
+
+	border: none;
+	margin: 2px;
+	height: 28px;
+	width: 345%;
+	margin-left: 1px;
+	outline: none;
+}
+
+.searchIconDiv {
+color:hsl(210,8%,55%);
+	padding: 5px 0px 0px 2px;
+}
+
+.loginBtn {
+	width: 66px;
+	height: 26px;
+	text-align: center;
+	margin-top: 13px;
+	padding: 4px 1px 0px 0px;
+	border-radius: 5px;
+	margin-left: 15px;
+	color: blue;
+
+	background: #E1ECF4;
+}
+
+.signUpBtn {
+	width: 66px;
+	height: 26px;
+	text-align: center;
+	margin-top: 13px;
+	padding: 4px 1px 0px 0px;
+	border-radius: 5px;
+	margin-left: 15px;
+	color: white;
+
+	background: #0A95FF;
+}
+
+.leftMenuMainDiv {
+	
+	padding: 26px 1px 0px 0px;
+	margin-left:4%;
+}
+
+.margintwentyone {
+
+
+	margin-top: 21px;
+
+}
+
+.globeDiv {
+	padding: 6px 0px 0px 0px;
+}
+
+.globe {
+
+	font-family: 'Material Symbols Outlined';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 1;
+	letter-spacing: normal;
+	text-transform: none;
+	display: inline-block;
+	white-space: nowrap;
+	word-wrap: normal;
+	direction: ltr;
+	-webkit-font-feature-settings: 'liga';
+	-webkit-font-smoothing: antialiased;
+}
+
+.icons {
+
+	font-family: 'Material Symbols Outlined';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 15px;
+	line-height: 1;
+	letter-spacing: normal;
+	text-transform: none;
+	display: inline-block;
+	white-space: nowrap;
+	word-wrap: normal;
+	direction: ltr;
+	-webkit-font-feature-settings: 'liga';
+	-webkit-font-smoothing: antialiased;
+}
+
+.icons18 {
+	color: #525960;
+	font-family: 'Material Symbols Outlined';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 1;
+	letter-spacing: normal;
+	text-transform: none;
+	display: inline-block;
+	white-space: nowrap;
+	word-wrap: normal;
+	direction: ltr;
+	-webkit-font-feature-settings: 'liga';
+	-webkit-font-smoothing: antialiased;
+}
+
+.star {
+	color: orange;
+	font-family: 'Material Symbols Outlined';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 1;
+	letter-spacing: normal;
+	text-transform: none;
+	display: inline-block;
+	white-space: nowrap;
+	word-wrap: normal;
+	direction: ltr;
+	-webkit-font-feature-settings: 'liga';
+	-webkit-font-smoothing: antialiased;
+}
+
+.paddingLeftTwo {
+
+	padding: 0px 0px 0px 2px;
+}
+
+.styleTags {
+	height: 26px;
+	padding: 8px 1px 1px 24px;
+	margin-top: 7px;
+
+}
+
+.styleUsers {
+	height: 26px;
+	padding: 8px 1px 1px 24px;
+	margin-top: 2px;
+	background: aliceblue;
+	border-right: 3px solid orangered;
+	font-weight: bold;
+	color: black;
+
+}
+
+.styleCollectives {
+	margin-top: 13px;
+
+}
+
+.alignSpaceAround {
+	justify-content: space-around;
+}
+
+.alignContent {
+	justify-content: space-between;
+}
+
+.marginTopNine {
+	margin-top: 9px;
+}
+
+.paddingLeftSeven {
+	padding-left: 7px;
+}
+
+.marginTopFive {
+	margin-top: 5px;
+}
+
+.paddingRightTwo {
+	padding-right: 2px;
+}
+
+.rightMainDiv {
+	padding-top: 34px;
+	padding-left: 15px;
+	
+margin-left:3px;
+	}
+
+.profilePic {
+	width: 128px;
+	height: 128;
+}
+
+.fontSize34 {
+	font-size: 34px;
+	font-weight: normal;
+}
+
+.proPicDivWidth {
+	width: 84%;
+}
+
+.paddingName {
+	padding: 9px 0px 0px 2px;
+}
+
+.detailsDiv {
+	justify-content: space-around;
+	width: 285px;
+	height: 26px;
+}
+
+.detailsDiv2 {
+	justify-content: space-around;
+	width: 350px;
+	height: 26px;
+}
+
+.profileDivMeasure {
+	height: 30px;
+	
+	
+	border: 1px solid;
+	border-radius: 5px;
+	justify-content: center;
+}
+
+.profileTextDiv {
+	margin-top: 2px;
+	padding-top: 3px;
+}
+
+.profileArrow {
+	margin-top: 2px;
+}
+
+.paddingProActvty {
+	padding: 11px 1px 11px 13px;
+
+}
+
+.profileTextStyle {
+	width: 72px;
+	height: 27px;
+	background-color: hsl(27, 90%, 55%);
+	border-radius: 25px;
+	text-align: center;
+	padding-top: 4px;
+	color: white;
+
+}
+
+.ActivityTextStyle {
+	margin-left: 3px;
+	width: 72px;
+	height: 27px;
+	background-color: white;
+	border-radius: 25px;
+	text-align: center;
+	padding-top: 4px;
+	color: black;
+
+}
+
+.absolute {
+
+	position: absolute;
+}
+
+.relative {
+
+	position: relative;
+}
+
+.fontsize21 {
+	font-size: 21px;
+}
+
+.contents {
+	padding: 13px 0px 0px 16px;
+}
+
+.leftContentDiv1 {
+
+	border: 1px solid hsl(210, 8%, 75%);
+	width: 211px;
+	height: 184px;
+	padding: 12px;
+	border-radius: 7px;
+}
+
+.fontsize17 {
+	font-size: 17px;
+}
+
+.textLeftContentDiv {
+	width: 93px;
+	height: 40px;
+	margin: 8px;
+
+}
+
+.textTop {
+	width: 103px;
+	height: 40px;
+	margin: 8px;
+
+}
+
+.reputationColor {
+
+	color: #6A737C;
+}
+
+.googlecloud {
+	margin-top: 10px;
+	padding: 12px;
+	border-radius: 5px;
+	width: 212px;
+	height: 35px;
+	border: 1px solid hsl(210, 8%, 75%);
+}
+
+.paddingLeft12 {
+	padding-left: 12px
+}
+
+.fontsize15 {
+
+	font-size: 15px;
+}
+
+.paddingTop8 {
+	padding-top: 8px;
+}
+
+.communitiesTextDiv {
+
+	width: 217px;
+	padding: 12px;
+	margin-top: 18px;
+	height: 127px;
+	border-radius: 5px;
+	border: 1px solid hsl(210, 8%, 75%);
+}
+
+.textblueClr {
+	color: #0074CC;
+}
+
+.communitiesImgStyle {
+
+	width: 22px;
+	height: 22px;
+
+}
+
+.textStackOverflow {
+	width: 152px;
+	padding-left: 2px;
+}
+
+.numberTextDiv {
+color: #6A737C;
+	text-align: end;
+	width: 34px;
+}
+
+.subcommunity-google-cloud.s-avatar {
+	background-image: url(Assets/google-cloud.svg);
+}
+
+.rightContents {
+	
+	padding: 0px 12px 12px 45px;
+}
+
+.paddingLeft35 {
+	padding-left: 35px;
+}
+
+.btn:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.readMoreBtn {
+	display: block;
+	width: 15%;
+	border-radius: 5px;
+	height: 27px;
+	background-color: white;
+	color: black;
+	font-size: 13px;
+	cursor: pointer;
+	border: 0.2px solid hsl(210, 8%, 75%);
+}
+
+.readBtnDiv {
+
+	padding-top: 10px;
+	padding-left: 35%;
+}
+
+.paddingTop9 {
+
+	padding-top: 9px;
+
+}
+
+.divBadge {
+	width: 100%;
+	justify-content: space-between;
+}
+
+.divBadgeBox {
+	border: 0.2px solid hsl(210, 8%, 75%);
+	width: 210px;
+	height: 130px;
+	border-radius: 5px;
+	padding: 12px;
+
+}
+
+.imgBadgeStyle {
+	width: 45px;
+	height: 45px;
+}
+
+.fontweight500 {
+	font-weight: 500;
+}
+
+.paddingLeft10 {
+
+	padding-left: 10px;
+}
+
+.divDeligates {
+	border: 0.5px solid hsl(210,8%,85%);
+	padding-left: 16px;
+	width: 35%;
+	margin-top: 6px;
+	height: 20px;
+	border-radius: 4px;
+	background-color: #F1F2F3;
+}
+
+.paddingleft5 {
+	padding-left: 5px;
+}
+
+.coloryellow {
+
+	color: hsl(48,100%,50%);
+}
+
+.colorBlack {
+	color: black;
+}
+
+.paddingTop7 {
+
+	padding-top: 7px;
+}
+
+.dateDiv {
+	width: 67px;
+	text-align: end;
+}
+
+.castingDivWidth {
+	width: 24%;
+}
+
+.deligatesDivWidth {
+	width: 30%;
+}
+
+.colorSilverBadge {
+	color: hsl(210,8%,75%);
+}
+
+.codingDivWidth {
+	width: 37%;
+}
+
+.colorBronzeBadge {
+	color: hsl(27,90%,70%);
+}
+
+.encapTextDv {
+
+	width: 42%;
+}
+
+.tagDetails {
+	margin-top: 17px;
+	border-radius: 5px;
+
+	border: 0.2px solid hsl(210, 8%, 75%);
+}
+
+
+.TextTagSpanStyle {
+	border-radius: 4px;
+	border: 1px solid;
+	padding: 2px;
+	color: #39739D;
+	background: #E1ECF4;
+}
+
+.padding12 {
+	padding: 12px;
+
+}
+
+.marginTop2 {
+	margin-top: 2px;
+}
+
+.styleCDiv {
+	width: 40px;
+	justify-content: space-between;
+}
+
+.yellowdot {
+	width: 20px;
+	height: 20px;
+}
+
+.scoreTextPadding {
+	padding-top: 2px;
+	padding-left: 5px;
+}
+
+.ScorePostDivStyle {
+	justify-content: space-between;
+
+	width: 354px;
+
+}
+
+.ScoresTopBorder {
+	border-top: 0.2px solid hsl(210, 8%, 75%);
+}
+
+
+.scoresDivStyle {
+
+	width: 95px;
+	justify-content: end;
+}
+
+
+.topPostDetailsDiv {
+	margin-top: 17px;
+	border-radius: 5px;
+
+	border: 0.2px solid hsl(210, 8%, 75%);
+}
+
+.topPostNumberStyle {
+	background-color: green;
+	color: white;
+	text-align: center;
+	width: 38px;
+	border-radius: 5px;
+}
+
+.topPostDateDiv {
+	width: 73px;
+	text-align: end;
+}
+
+.width79 {
+	width: 79%;
+}
+
+.deisgnNumberDiv {
+	color: black;
+	background-color: white;
+	border: 0.5px solid black;
+}
+
+.width10 {
+	width: 10%
+}
+
+.width91 {
+	width: 91%;
+}
+
+.footerMainDiv {
+	height: 325px;
+	background-color: black;
+	padding: 28px 0px 0px 84px;
+}
+
+.footerImg {
+	width: 50px;
+	height: 50px;
+}
+
+.width6 {
+	width: 6%;
+}
+
+.removeBullets {
+	list-style-type: none;
+}
+
+.colorWhite {
+	color: white;
+}
+
+.fontWeight650 {
+	font-weight: 650;
+}
+
+.paddingTop17 {
+	padding-top: 17px;
+}
+
+.marginTop6 {
+	margin-top: 6px;
+}
+
+.marginLeft83 {
+	margin-left: 83px;
+}
+
+.footerTextColor {
+	color: #9199A1;
+}
+
+.footerHeadingClr {
+	color: #BABFC4;
+}
+
+.listTypenone {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.listType {
+	float: left;
+	margin-left: 9px;
+}
+
+.sitedesignText {
+	padding-left: 9px;
+	width: 95%;
+}
+
+.width15 {
+	width: 15%;
+}
+
+.BlogDivStyle {
+	display: flex;
+	height: 261px;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.width20 {
+	width: 21%;
+}
+
+.profileHover:hover {
+	background-color: hsl(27, 90%, 39%);
+}
+
+.signHover:hover {
+	background-color: hsl(209, 100%, 26%);
+}
+
+.login:hover {
+	background-color: hsl(206,96%,90%);
+}
+
+.marginTop15 {
+	margin-top: 15px;
+}
+
+.TopTagsBtnDiv {
+	border: 1px solid hsl(210, 8%, 75%);
+	border-radius: 4px;
+
+	margin-top: 20px;
+	height: 55%;
+}
+
+.TopTagsList {
+
+	border-right: 1px solid hsl(210, 8%, 75%);
+	float: left;
+	padding: 5px;
+}
+
+.lastChild:last-child {
+	border-right: none
+}
+
+.topPostsBtnDiv {
+	width: 42%;
+	justify-content: inherit;
+}
+
+.googleCloudImg {
+	width: 48px;
+	height: 46px;
+}
+
+.paddingTop19 {
+	padding-top: 19px;
+}
+.margin25{
+margin-left: 25px;
+}
